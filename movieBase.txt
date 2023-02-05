@@ -1,0 +1,3 @@
+Krasotka,Melodramma,15
+Gladiator,History dramma,25
+Pobeg,Action,10
